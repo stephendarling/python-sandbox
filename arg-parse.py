@@ -1,4 +1,5 @@
 import argparse
+# More information available here https://pymotw.com/2/argparse/
 
 parser = argparse.ArgumentParser()
 
